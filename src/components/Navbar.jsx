@@ -58,7 +58,7 @@ const Navbar = () => {
 
 
                 }}>
-                {location.pathname === '/blogs' && <Link to={"/addblog"} type="button" class="btn btn-warning">
+                {location.pathname === '/blogs' && <Link to={"/addblogs"} type="button" class="btn btn-warning">
                     Add Blog
                 </Link>}
 
