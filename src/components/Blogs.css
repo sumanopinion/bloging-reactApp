@@ -1,0 +1,5 @@
+@media(max-width: 600px){
+    #authorImg{
+        width: 10% !important;
+    }
+}
